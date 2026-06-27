@@ -1,0 +1,28 @@
+{
+  "name": "杰克船长 · 智能体方案专家",
+  "short_name": "杰克船长",
+  "description": "用智能体全能力，把你的业务重做一遍。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#a78bfa",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "education"],
+  "lang": "zh-CN",
+  "scope": "/",
+  "start_url": "/index.html"
+}
