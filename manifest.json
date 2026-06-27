@@ -2,7 +2,8 @@
   "name": "杰克船长 · 智能体方案专家",
   "short_name": "杰克船长",
   "description": "用智能体全能力，把你的业务重做一遍。",
-  "start_url": "/",
+  "start_url": "/personal-website/index.html",
+  "scope": "/personal-website/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#a78bfa",
@@ -22,7 +23,5 @@
     }
   ],
   "categories": ["business", "productivity", "education"],
-  "lang": "zh-CN",
-  "scope": "/",
-  "start_url": "/index.html"
+  "lang": "zh-CN"
 }
